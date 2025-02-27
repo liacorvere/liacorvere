@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liacorvere
+- 👋 Hi, I’m Mengyan (Lia) Liu
 - 👀 I’m interested in criminology, arts, crafts, and cute animals!
 - 🌱 I’m currently learning SQL, Python, and R
 - 💞️ I’m looking to collaborate on anything fun! 
